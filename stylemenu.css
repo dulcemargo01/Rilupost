@@ -1,0 +1,801 @@
+
+body
+{
+	background-image: url(pint.jpeg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+
+
+.pos
+{
+	background: white;
+	margin: 20px;
+	border-radius: 20px;
+	display: flex;
+  justify-content: center;
+  border-radius: 20px;
+  position: absolute;
+
+}
+
+ .post
+ {
+ 	background-color: #F5B7B1 ;
+ 	text-align: center;
+ 	margin: 10px;
+ 	padding: 10px;
+ 	border-radius: 10px;
+ 	width: 100px;
+
+ }
+ .po 
+ {
+ 	background: #76D7C4;
+ 	text-align: center;
+ 	margin: 10px;
+ 	padding: 10px;
+ 	border-radius: 10px;
+ 	width: 100px;
+ }
+ .pas
+ {
+	background:#F5B7B1  ;
+ 	text-align: center;
+ 	margin: 10px;
+ 	padding: 10px;
+ 	border-radius: 10px;
+ 	width: 100px; 
+ }
+.ge
+{
+	background: #76D7C4;
+ 	text-align: center;
+ 	margin: 10px;
+ 	padding: 10px;
+ 	border-radius: 10px;
+ 	width: 100px;
+}
+.pi
+{
+	background:#F5B7B1  ;
+ 	text-align: center;
+ 	margin: 10px;
+ 	padding: 10px;
+ 	border-radius: 10px;
+ 	width: 100px; 
+}
+
+ img
+
+{
+	width: 0px;
+	height: 570px; 
+}
+.Bizcochos, .Donas, .Gelatinas, .hot, .pies
+	{
+		
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: center;
+		border-radius: 50px;
+	}
+.Bizcochos
+	{
+		
+		
+	}
+
+.Donas
+	{
+		
+
+	}
+.hot
+	{
+		
+		
+	}
+.Gelatinas
+	{
+		
+		
+	}
+.pies
+{
+	
+	
+}
+.photo1:hover
+{
+	border: 2px solid black;
+	box-shadow: 1PX 5PX 1px #ECCEF5;
+	height: 200px;
+	width: 200PX;
+	transition: 0.5s;
+	transform: scale(1.1);
+	border-radius: 10px;
+}
+.photo1, .photo2, .photo3, .photo4, .photo5, .photo6, .photo7, .photo8, .photo9, .photo10, .photo11, .photo12, .photo13, .photo14, .photo15, .photo16, .photo17, .photo18, .photo19, .photo20
+{
+	margin: 10px;
+}
+.photo2:hover
+{
+	border: 2px solid black;
+	box-shadow: 1PX 5PX 1px #ECCEF5;
+	height: 200px;
+	width: 200px;
+	transition: 0.5s;
+	transform: scale(1.1);
+	border-radius: 10px;
+}
+.photo3:hover
+{
+	border: 2px solid black;
+	box-shadow: 1PX 5PX 1px #ECCEF5;
+	height: 200px;
+	width: 200px;
+	transition: 0.5s;
+	transform: scale(1.1);
+	border-radius: 10px;
+}
+.photo4:hover
+{
+	border: 2px solid black;
+	box-shadow: 1PX 5PX 1px #ECCEF5;
+	height: 200px;
+	width: 200px;
+	transition: 0.5s;
+	transform: scale(1.1);
+	border-radius: 10px;
+}
+.photo5:hover
+{
+	border: 2px solid black;
+	box-shadow: 1PX 5PX 1px #ECCEF5;
+	height: 200px;
+	width: 200px;
+	transition: 0.5s;
+	transform: scale(1.1);
+	border-radius: 10px;
+}
+.photo6:hover
+{
+	border: 2px solid black;
+	box-shadow: 1PX 5PX 1px #ECCEF5;
+	height: 200px;
+		width: 200px;
+	transition: 0.5s;
+	transform: scale(1.1);
+	border-radius: 10px;
+}
+.photo7:hover
+{
+	border: 2px solid black;
+	box-shadow: 1PX 5PX 1px #ECCEF5;
+	height: 200px;
+		width: 200px;
+	transition: 0.5s;
+	transform: scale(1.1);
+	border-radius: 10px;
+}
+.photo8:hover
+{
+	border: 2px solid black;
+	box-shadow: 1PX 5PX 1px #ECCEF5;
+	height: 200px;
+		width: 200px;
+	transition: 0.5s;
+	transform: scale(1.1);
+	border-radius: 10px;
+}
+.photo9:hover
+{
+	border: 2px solid black;
+	box-shadow: 1PX 5PX 1px #ECCEF5;
+	height: 200px;
+		width: 200px;
+	transition: 0.5s;
+	transform: scale(1.1);
+	border-radius: 10px;
+}
+.photo10:hover
+{
+	border: 2px solid black;
+	box-shadow: 1PX 5PX 1px #ECCEF5;
+	height: 200px;
+		width: 200px;
+	transition: 0.5s;
+	transform: scale(1.1);
+	border-radius: 10px;
+}
+.photo11:hover
+{
+	border: 2px solid black;
+	box-shadow: 1PX 5PX 1px #ECCEF5;
+	height: 200px;
+		width: 200px;
+	transition: 0.5s;
+	transform: scale(1.1);
+	border-radius: 10px;
+}
+.photo12:hover
+{
+	border: 2px solid black;
+	box-shadow: 1PX 5PX 1px #ECCEF5;
+	height: 200px;
+		width: 200px;
+	transition: 0.5s;
+	transform: scale(1.1);
+	border-radius: 10px;
+}
+.photo13:hover
+{
+	border: 2px solid black;
+	box-shadow: 1PX 5PX 1px #ECCEF5;
+	height: 200px;
+		width: 200px;
+	transition: 0.5s;
+	transform: scale(1.1);
+	border-radius: 10px;
+}
+.photo14:hover
+{
+	border: 2px solid black;
+	box-shadow: 1PX 5PX 1px #ECCEF5;
+	height: 200px;
+		width: 200px;
+	transition: 0.5s;
+	transform: scale(1.1);
+	border-radius: 10px;
+}
+.photo15:hover
+{
+	border: 2px solid black;
+	box-shadow: 1PX 5PX 1px #ECCEF5;
+	height: 200px;
+		width: 200px;
+	transition: 0.5s;
+	transform: scale(1.1);
+	border-radius: 10px;
+}
+.photo16:hover
+{
+	border: 2px solid black;
+	box-shadow: 1PX 5PX 1px #ECCEF5;
+	height: 200px;
+		width: 200px;
+	transition: 0.5s;
+	transform: scale(1.1);
+	border-radius: 10px;
+}
+.photo17:hover
+{
+	border: 2px solid black;
+	box-shadow: 1PX 5PX 1px #ECCEF5;
+	height: 200px;
+		width: 200px;
+	transition: 0.5s;
+	transform: scale(1.1);
+	border-radius: 10px;
+}
+.photo18:hover
+{
+	border: 2px solid black;
+	box-shadow: 1PX 5PX 1px #ECCEF5;
+	height: 200px;
+		width: 200px;
+	transition: 0.5s;
+	transform: scale(1.1);
+	border-radius: 10px;
+}
+.photo19:hover
+{
+	border: 2px solid black;
+	box-shadow: 1PX 5PX 1px #ECCEF5;
+	height: 200px;
+		width: 200px;
+	transition: 0.5s;
+	transform: scale(1.1);
+	border-radius: 10px;
+}
+.photo20:hover
+{
+	border: 2px solid black;
+	box-shadow: 1PX 5PX 1px #ECCEF5;
+	height: 200px;
+		width: 200px;
+	transition: 0.5s;
+	transform: scale(1.1);
+	border-radius: 10px;
+}
+.deta1
+{
+	background: white;
+
+	width: 200px;
+	height: 200px;
+	padding: 10px;
+	text-align: justify;
+	border-radius: 5px;
+	margin: 10px;
+}
+.deta2
+{
+  background: white;
+	
+	width: 200px;
+		height: 200px;
+	padding: 10px;
+	text-align: justify;
+	border-radius: 5px;
+		margin: 10px;
+}
+.deta3
+{
+	background: white;
+	
+	width: 200px;
+		height: 200px;
+	padding: 10px;
+	text-align: justify;
+	border-radius: 5px;
+		margin: 10px;
+}
+.deta4
+{
+	background: white;
+	
+	width: 200px;
+		height: 200px;
+	padding: 10px;
+	text-align: justify;
+	border-radius: 5px;
+		margin: 10px;
+}
+.deta5
+{
+	background: white;
+	
+	width: 200px;
+		height: 200px;
+	padding: 10px;
+	text-align: justify;
+	border-radius: 5px;
+		margin: 10px;
+}
+.deta6
+{
+	background: white;
+
+	width: 200px;
+		height: 200px;
+	padding: 10px;
+	text-align: justify;
+	border-radius: 5px;
+		margin: 10px;
+}
+.deta7
+{
+	background: white;
+
+	width: 200px;
+		height: 200px;
+	padding: 10px;
+	text-align: justify;
+	border-radius: 5px;
+		margin: 10px;
+}
+.deta8
+{
+	background: white;
+	
+	width: 200px;
+		height: 200px;
+	padding: 10px;
+	text-align: justify;
+	border-radius: 5px;
+		margin: 10px;
+}
+.deta9
+{
+	background: white;
+	
+	width: 200px;
+		height: 200px;
+	padding: 10px;
+	text-align: justify;
+	border-radius: 5px;
+		margin: 10px;
+}
+.deta10
+{
+	background: white;
+	
+	width: 200px;
+		height: 200px;
+	padding: 10px;
+	text-align: justify;
+	border-radius: 5px;
+		margin: 10px;
+}
+.deta11
+{
+	background: white;
+
+	width: 200px;
+		height: 200px;
+	padding: 10px;
+	text-align: justify;
+	border-radius: 5px;
+		margin: 10px;
+}
+.deta12
+{
+	background: white;
+	
+	width: 200px;
+		height: 200px;
+	padding: 10px;
+	text-align: justify;
+	border-radius: 5px;
+		margin: 10px;
+}
+.deta13
+{
+	background: white;
+	
+	width: 200px;
+		height: 200px;
+	padding: 10px;
+	text-align: justify;
+	border-radius: 5px;
+		margin: 10px;
+}
+.deta14
+{
+	background: white;
+	background-color: none;
+	width: 200px;
+		height: 200px;
+	padding: 10px;
+	text-align: justify;
+	border-radius: 5px;
+		margin: 10px;
+}
+.deta15
+{
+	background: white;
+	background-color: none;
+	width: 200px;
+		height: 200px;
+	padding: 10px;
+	text-align: justify;
+	border-radius: 5px;
+		margin: 10px;
+}
+.deta16
+{
+	background: white;
+	background-color: none;
+	width: 200px;
+		height: 200px;
+	padding: 10px;
+	text-align: justify;
+	border-radius: 5px;
+		margin: 10px;
+}
+.deta17
+{
+	background: white;
+	background-color: none;
+	width: 200px;
+		height: 200px;
+	padding: 10px;
+	text-align: justify;
+	border-radius: 5px;
+		margin: 10px;
+}
+.deta18
+{
+	background: white;
+	background-color: none;
+	width: 200px;
+		height: 200px;
+	padding: 10px;
+	text-align: justify;
+	border-radius: 5px;
+		margin: 10px;
+}
+.deta19
+{
+	background: white;
+	background-color: none;
+	width: 200px;
+		height: 200px;
+	padding: 10px;
+	text-align: justify;
+	border-radius: 5px;
+		margin: 10px;
+}
+.deta20
+{
+	background: white;
+	background-color: none;
+	width: 200px;
+		height: 200px;
+	padding: 10px;
+	text-align: justify;
+	border-radius: 5px;
+		margin: 10px;
+}
+
+	
+
+}
+.container
+{
+	display: flex;/*ordena*/
+	background-color: none;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	border-radius: 50px;
+
+}
+.detail
+{
+	background-color:none;
+	width: 300px;
+	padding: 10px;
+	text-align: justify;
+	border-radius: 5px;
+}
+
+.red
+	{
+		background: #D38E5F;
+		color: black;
+		text-decoration: none;
+		padding: 6px;
+		border-radius: 20px;
+		margin: 10px;
+	}
+	.dime
+	{
+		background: #D38E5F;
+		color: black;
+		text-decoration: none;
+		padding: 6px;
+		border-radius: 20px;
+		margin: 10px;
+	}
+img
+{
+	
+	width: 200px;
+	height: 200px;
+	transition: 0.5s;
+}
+.ima
+{
+	
+width: 1270px;
+	height: 600px;
+	border-radius: 30px;
+	border-style: double;
+	margin: 5px 5px 5px 5px;
+	
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.dropdown-content a {
+  display: block;
+}
+
+.show {
+  display: block;
+}
+
+.flecha
+{
+	width: 70px;
+	height: 60px;
+
+}
+
+.coment
+{
+	background-color: lightgray;
+	justify-content: center;
+	margin: 20px;
+	border-radius: 5px;
+}
+.input
+{
+	justify-content: centrer;
+	text-align: center;
+}
+.co
+{
+		background: #D5DBDB;
+	margin: 10px;
+	border-radius: 30px;
+	height: 350px;
+	padding: 5px;
+
+}
+.publi
+{
+	background: #D5DBDB;
+	margin: 10px;
+	border-radius: 30px;
+	height: 100px;
+	padding: 5px;
+}
+.nombre
+{
+	background: #FBFCFC;
+	margin: 10px;
+	text-align: center;
+	padding: 10px;
+	border-radius: 5px;
+}
+.comen
+{
+	background: #FBFCFC;
+	margin: 10px;
+	border-radius: 5px;
+	text-align: center;
+	padding: 10px;
+}
+.correo
+{
+	background: #FBFCFC;
+	margin: 10px;
+	border-radius: 5px;
+	text-align: center;
+	padding: 10px;
+}
+
+.brillit
+{
+	width: 800px;
+	height: 40px;
+}
+.dulce
+{
+	width: 800px;
+	height: 40px;
+}
+.alan
+{
+	width: 800px;
+	height: 40px;
+}
+.fecha
+{
+	background: #FBFCFC;
+	margin: 10px;
+	border-radius: 5px;
+	text-align: center;
+	padding: 10px;
+}
+.hoy
+{
+  width: 800px;
+	height: 40px;	
+}
+.muestra
+{
+	background: white;
+	margin: 10px;
+	border-radius: 5px;
+
+}
+.pu
+{
+	background: black;
+	color: white;
+	border-radius: 10px;
+
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.cart {
+  
+  background-color: #f2f2f2;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  margin-bottom: 50px;
+ align-content: right;
+
+}
+
+.cart h2 {
+ 
+}
+
+.cart ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.cart li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+}
+
+.products {
+  width: 400px;
+}
+
+.products h2 {
+  margin-top: 0;
+}
+
+.products ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.products li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+}
+
+.products li span {
+  font-weight: bold;
+}
+
+.add-to-cart {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.add-to-cart:hover {
+  background-color: #3e8e41;
+}
+
+#cart-total {
+  font-weight: bold;
+}
+.opc 
+{
+	display: none;
+}
+	
